@@ -1,7 +1,7 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+Grupo: No se qual es en nombre de mi grupo  Curso: 2019/20 
 
 Proyecto: Couchsurfing
 
@@ -10,7 +10,7 @@ Descripción:
 Logotipo:  <script src="https://kit.fontawesome.com/5fdcf003fa.js" crossorigin="anonymous"></script>
 
 
-Miembros
+Miembros:
 António Francisco Oliveira Henriques, 14705014
 
 ----- 
@@ -22,27 +22,27 @@ António Francisco Oliveira Henriques, 14705014
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
-
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+ 
+He eligido a couchsurfing porque creo ser una aplicación muy interesante para quien quiere viajar de una forma economica, y además tener la posibilidad de conocer otras realidades y culturas.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+He escogido hablar de Anthoine y de Monica pues suelen ser personas con personalidades y objetivos para la aplicación distintos, pero ambas muy interesantes.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+Creo que la opción de Monica es un poco mas normal que la de Anthoine, pues Anthoine ha despedido de su empleo, pero sin ser eso, tiene una opción normal para los usuarios del aplicativo. 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
+>>>  Revisión de usabilidad:
+>>>> SE deben incluir claramente los siguientes elementos: https://github.com/antoniohenriques/DIU20/blob/master/P1/Usability-review-template.xls 
 >>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Comentario sobre la valoración:
 
 
 ## Paso 2. UX Design  
@@ -135,10 +135,8 @@ Término | Significado
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Anthoine  | H / 24       | Consultor       | Alta       | Exrovertido | App.       | A 
+| Monica  | M / 21         | Escritora       | Media       | Exrovertido| App        | A 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
