@@ -76,7 +76,7 @@ Yo creo que la aplicación de couchsurfing está muy bien echa, pero creo que le
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+  Login    | acceder a plataforma
   Sign Up  | registrarse a la plataforma
   Search   | procurar un host en la plataforma
   verify   | verificar que su perfil es real
@@ -127,8 +127,7 @@ Término | Significado
 
 
 >>> Comprobacion de asignaciones para A/B Testing. Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
-
->>>> Práctica A: 
+>>> el link de arriba no funciona
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
