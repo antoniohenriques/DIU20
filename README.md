@@ -97,7 +97,6 @@ Término | Significado
 
 
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
-Análisis a MuseMap
 
 Pregunta seminal/idea de investigación: ¿y si pudiéramos saber el nombre de los artistas callejeros? 
 	-Creo que sería algo muy bueno pues traía valor al callejero para, quizás, tener más trabajos en el futuro pagos, o para ganar también reconocimiento. Seria bueno para la aplicación tener una referencia sobre el callejero que ha hecho el trabajo, y después tener la opción de poder ver mas trabajos del mismo callejero.
@@ -119,8 +118,6 @@ Pregunta seminal/idea de investigación: ¿y si pudiéramos saber el nombre de l
 	-Tener una página con los contactos caso tenga alguna duda o algo a reportar.
 	-
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
-
 ![Método UX](img/landing-page.png)  3.b Logotipo
 
  <script src="https://kit.fontawesome.com/5fdcf003fa.js" crossorigin="anonymous"></script>
@@ -128,12 +125,9 @@ Pregunta seminal/idea de investigación: ¿y si pudiéramos saber el nombre de l
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
 
-![Método UX](img/mockup.png)  3.d Mockup
+![Método UX](img/mockup.png)  3.d Video
 ----
-
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
 
 ## Paso 4. UX Check (Usability Testing) 
