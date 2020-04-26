@@ -3,24 +3,17 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU1_01AABB.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: Couchsurfing
 
 Descripción: 
 
-Logotipo: 
+Logotipo:  <script src="https://kit.fontawesome.com/5fdcf003fa.js" crossorigin="anonymous"></script>
+
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+António Francisco Oliveira Henriques, 14705014
 
 ----- 
-
-En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
-
-
-Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
 
 
 # Proceso de Diseño 
