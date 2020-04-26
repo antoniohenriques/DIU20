@@ -34,7 +34,6 @@ He escogido hablar de Anthoine y de Monica pues suelen ser personas con personal
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-
 Creo que la opción de Monica es un poco mas normal que la de Anthoine, pues Anthoine ha despedido de su empleo, pero sin ser eso, tiene una opción normal para los usuarios del aplicativo. 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
@@ -61,10 +60,7 @@ Creo que la opción de Monica es un poco mas normal que la de Anthoine, pues Ant
   
   
   
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+Yo creo que la aplicación de couchsurfing está muy bien echa, pero creo que le falta tener la posibilidad de que, una persona que va a mirar por un host, que tenga la posibilidad de poder mirar donde la persona vive en el mapa, con un radio de mas o menos 1km, tambien para no estar mostrando donde queda la ubicación exacta de la persona, por razones de seguridad.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
@@ -81,7 +77,15 @@ Creo que la opción de Monica es un poco mas normal que la de Anthoine, pues Ant
 Término | Significado     
 | ------------- | -------
   Login¿?  | acceder a plataforma
-
+  Sign Up  | registrarse a la plataforma
+  Search   | procurar un host en la plataforma
+  verify   | verificar que su perfil es real
+  dashboard| opciones de destinos donde tienen host
+  groups   | entrar en un grupo con otros couchsurfers
+  events   | eventos entre couchsurfers y hosts en una ciudad
+  inbox    | donde están las mensajes
+  profile  | donde puedes mirar tu perfil
+  settings | puedes salir de tu cuenta o ir a las definiciones
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
@@ -142,9 +146,7 @@ Término | Significado
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+>>> No he hecho porque no abre la hoja de calculo
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
