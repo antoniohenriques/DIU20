@@ -127,7 +127,8 @@ Pregunta seminal/idea de investigación: ¿y si pudiéramos saber el nombre de l
 
 
 ![Método UX](img/mockup.png)  3.d Video
-----
+
+https://youtu.be/pWsN8gXapgU
 
 
 ## Paso 4. UX Check (Usability Testing) 
