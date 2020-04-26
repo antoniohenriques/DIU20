@@ -93,20 +93,37 @@ Término | Significado
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
 
-## Paso 3. Make (Prototyping) 
+## Paso 3. Mi equipo UX-Case Study
 
 
-![Método UX](img/moodboard.png) 3.a Moodboard
------
+![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
+Análisis a MuseMap
 
+Pregunta seminal/idea de investigación: ¿y si pudiéramos saber el nombre de los artistas callejeros? 
+	-Creo que sería algo muy bueno pues traía valor al callejero para, quizás, tener más trabajos en el futuro pagos, o para ganar también reconocimiento. Seria bueno para la aplicación tener una referencia sobre el callejero que ha hecho el trabajo, y después tener la opción de poder ver mas trabajos del mismo callejero.
+
+○ Introducción: tiempo, equipo, objetivo. Se podría distinguir entre objetivos primarios y secundarios 
+	-
+○ Oportunidad: ¿puedo hacer un producto como esté? ¿hay otros productos en el mercado? ¿tiene sentido? 
+	-Existen ya productos como el que es presentado. Conozco un que es igualito, que habla sobre toda el arte de calle y callejeros de Portugal. Se llama Urban Art Portugal, y es grátis. Creo que tiene sentido, pues es una forma muy sencilla de todo el mundo saber y obtener información sobre arte, sin papeles ni guías turísticos.
+
+○ Investigación primaria: quiénes son nuestros usuarios y qué necesitan. 
+	-Nuestros usuarios son, la mayoría, turistas que tienen curiosidad de saber la historia por detrás de una pintura. Pueden también ser personas que viven le la ciudad que la pintura esta pintada y quieren descubrir un poco más sobre su ciudad. También pueden ser influencers que quieren hablar sobre arte urbana en sus redes sociales.
+○ Análisis de la competencia 
+	-La competencia puede ser de todo un poco que sea turismo. Por ejemplo, los autobuses turísticos, como por ejemplo el MadridCityTours. Guías turísticos son otra competencia de la aplicación. 
+○ Diseño Centrado en el Usuario para recabar información (como en la P1) 
+	-
+○ Problemas que debemos evitar, cosas que debemos incluir (como en la revisión de la usabilidad de la P1 y el feedback-capture-grid de la P2)
+	-Tener una opción para dejar comentarios sobre el arte que la persona ha visto.
+	-Tener información sobre el callejero
+	-Tener una página con los contactos caso tenga alguna duda o algo a reportar.
+	-
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 
-![Método UX](img/landing-page.png)  3.b Landing Page
-----
+![Método UX](img/landing-page.png)  3.b Logotipo
 
-
->>> Plantear Landing Page 
+ <script src="https://kit.fontawesome.com/5fdcf003fa.js" crossorigin="anonymous"></script>
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
