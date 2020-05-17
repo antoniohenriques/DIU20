@@ -159,7 +159,7 @@ Para hacer la experiencia, hemos a Anthoine, un jóven que quiere descubrir nuev
 
 	Describe la experiencia 1(CEREZA):
 
-	En su paso por la aplicación Anastasia tiene problemas con la interfaz, esta todo acumulado en muy pocas pantallas, puesto casi con calzador.
+	En su paso por la aplicación Anthoine tiene problemas con la interfaz, esta todo acumulado en muy pocas pantallas, puesto casi con calzador.
 	Anthoine quiere buscar un viaje y encontrar personas les pueda dar una opinión, o al menos verlas de forma rápida sin tener que chatear con los viajeros de las propuestas del buscador, pero no es posible.
 	Anthoine queda frustrado por no poder chatear con los otros usuarios.
 
@@ -172,12 +172,12 @@ Para hacer la experiencia, hemos a Anthoine, un jóven que quiere descubrir nuev
 
 	Anthoine ha creado un evento para hacer un botellón en su casa. 
 	Después se ha dado cuenta  que ha puesto la ubicación mal y ya se le habían apuntado varias personas ya. 
-	Anthoine intenta modificar el evento pero no es posible. Tuve que eliminar 
-	el evento y hacer un nuevo.
+	Anthoine intenta modificar el evento pero no es posible. Tuve que eliminar el evento y hacer un nuevo.
 
 
 
 ## Ranking 
+
 
 **1- DIU1.CEREZA    85/100**
 
