@@ -143,13 +143,13 @@ Este grupo ha planteado la idea de diseño de una aplicación basada en la exper
 
 **DIU2.EscuadrónMapache**	:octocat: https://github.com/Galactic-O/DIU20
 
-Este equipo a planteado la idea de diseño de una aplicación basada en la experiencia de alquiler de viviendas, podiendo también mantener contacto con las personas que van a vivir.
+Este grupo a planteado la idea de diseño de una aplicación basada en la experiencia de alquiler de viviendas, podiendo también mantener contacto con las personas que van a vivir.
 
 **Puntuacion 84/100**
 
 **DIU3.AMRM**		:octocat: https://github.com/suribel/DIU20
 
-Este equipo a planteado la idea de diseño de una aplicación basada en la experiencias de compartir eventos, en que puedes ser tu a crearlos o pueden ir a eventos creados por otros usuarios.
+Este grupo a planteado la idea de diseño de una aplicación basada en la experiencias de compartir eventos, en que puedes ser tu a crearlos o pueden ir a eventos creados por otros usuarios.
 
 *Puntuacion 85/100*
 
