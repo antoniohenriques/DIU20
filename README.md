@@ -1,7 +1,7 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: No se qual es en nombre de mi grupo  Curso: 2019/20 
+Grupo: DIU1.AH Curso: 2019/20 
 
 Proyecto: Couchsurfing
 
@@ -134,40 +134,25 @@ https://youtu.be/pWsN8gXapgU
 ## Paso 4. UX Check (Usability Testing) 
 
 
-![Método UX](img/ABtesting.png) 4.a A/B Testing
-----
+DIU - Practica 4, entregables
+Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proyectos.md
 
+Caso 1
+Descripcion y hoja de valoración.
 
->>> Comprobacion de asignaciones para A/B Testing. Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
->>> el link de arriba no funciona
+Caso 2
+Descripcion y hoja de valoración.
 
+Caso 3
+Descripcion y hoja de valoración.
 
-![Método UX](img/usability-testing.png) 4.b User Testing
-----
+User Testing
+Describe la experiencia 1
 
->>> Usuarios para evaluar prácticas 
+Describe la experiencia 2
 
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Anthoine  | H / 24       | Consultor       | Alta       | Exrovertido | App.       | A 
-| Monica  | M / 21         | Escritora       | Media       | Exrovertido| App        | A 
-
-
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
-----
-
->>> No he hecho porque no abre la hoja de calculo
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
-
-![Método UX](img/usability-report.png) 4.c Usability Report
-----
-
->> Añadir report de usabilidad para práctica B 
-
-
+Describe la experiencia 3
+Conclusiones
 
 ## Paso 5. Evaluación de Accesibilidad  
 
