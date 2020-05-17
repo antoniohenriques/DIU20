@@ -131,28 +131,41 @@ Pregunta seminal/idea de investigación: ¿y si pudiéramos saber el nombre de l
 https://youtu.be/pWsN8gXapgU
 
 
-## Paso 4. UX Check (Usability Testing) 
+## Paso 4. Evaluación 
+
+Proceso detallado [aquí](
+
+![Método UX](img/ABtesting.png) 4.a Casos asignados
+----
+**DIU1.CEREZA**		:octocat: https://github.com/DavidGmezHdez/DIU20
+
+Este grupo ha planteado la idea de diseño de una aplicación basada en la experiencia de compartir viaje.
+
+*Puntuación /100*
+
+**DIU2.EscuadrónMapache**	:octocat: https://github.com/Galactic-O/DIU20
+
+Este equipo a planteado la idea de diseño de una aplicación basada en la experiencia de compartir alojamiento.
+
+*Puntuacion /100*
+
+**DIU3.AMRM**		:octocat: https://github.com/suribel/DIU20
+
+Este equipo a planteado la idea de diseño de una aplicación basada en la experiencias de compartir viaje.
+
+*Puntuacion /100*
+
+![Método UX](img/usability-testing.png) 4.b User Testing
 
 
-DIU - Practica 4, entregables
 
+![Método UX](img/Survey.png). 4.c Ranking 
 
-Caso 1
-Descripcion y hoja de valoración.
+**1- DIU1.CEREZA    /100**
 
-Caso 2
-Descripcion y hoja de valoración.
+**2- DIU2.EscuadrónMapache   /100**
 
-Caso 3
-Descripcion y hoja de valoración.
-
-User Testing
-Describe la experiencia 1
-
-Describe la experiencia 2
-
-Describe la experiencia 3
-Conclusiones
+**3- DIU3.AMRM	  /100**
 
 ## Paso 5. Evaluación de Accesibilidad  
 
