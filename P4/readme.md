@@ -30,7 +30,7 @@ Valoración: https://github.com/antoniohenriques/DIU20/blob/master/P4/DIU%7B3%7D
 
 	Describe la experiencia 1(CEREZA):
 
-	En su paso por la aplicación Anastasia tiene problemas con la interfaz, esta todo acumulado en muy pocas pantallas, puesto casi con calzador.
+	En su paso por la aplicación Anthoine tiene problemas con la interfaz, esta todo acumulado en muy pocas pantallas, puesto casi con calzador.
 	Anthoine quiere buscar un viaje y encontrar personas les pueda dar una opinión, o al menos verlas de forma rápida sin tener que chatear con los viajeros de las propuestas del buscador, pero no es posible.
 	Anthoine queda frustrado por no poder chatear con los otros usuarios.
 
