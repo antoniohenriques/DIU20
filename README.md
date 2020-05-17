@@ -139,19 +139,19 @@ https://youtu.be/pWsN8gXapgU
 
 Este grupo ha planteado la idea de diseño de una aplicación basada en la experiencia de hacer viajes, hasta a personas con menos recursos.
 
-*Puntuación 85/100*
+**Puntuación 85/100**
 
 **DIU2.EscuadrónMapache**	:octocat: https://github.com/Galactic-O/DIU20
 
 Este equipo a planteado la idea de diseño de una aplicación basada en la experiencia de alquiler de viviendas, podiendo también mantener contacto con las personas que van a vivir.
 
-*Puntuacion /100*
+**Puntuacion 84/100**
 
 **DIU3.AMRM**		:octocat: https://github.com/suribel/DIU20
 
-Este equipo a planteado la idea de diseño de una aplicación basada en la experiencias de compartir viaje.
+Este equipo a planteado la idea de diseño de una aplicación basada en la experiencias de compartir eventos, en que puedes ser tu a crearlos o pueden ir a eventos creados por otros usuarios.
 
-*Puntuacion /100*
+*Puntuacion 85/100*
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 
@@ -161,9 +161,10 @@ Este equipo a planteado la idea de diseño de una aplicación basada en la exper
 
 **1- DIU1.CEREZA    85/100**
 
-**2- DIU2.EscuadrónMapache   84/100**
+**2- DIU3.AMRM	  85/100**
 
-**3- DIU3.AMRM	  /100**
+**3- DIU2.EscuadrónMapache   84/100**
+
 
 ## Paso 5. Evaluación de Accesibilidad  
 
