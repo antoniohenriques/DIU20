@@ -151,7 +151,7 @@ Este grupo a planteado la idea de diseño de una aplicación basada en la experi
 
 Este grupo a planteado la idea de diseño de una aplicación basada en la experiencias de compartir eventos, en que puedes ser tu a crearlos o pueden ir a eventos creados por otros usuarios.
 
-*Puntuacion 85/100*
+**Puntuacion 85/100**
 
 ## User Testing
 
