@@ -133,19 +133,17 @@ https://youtu.be/pWsN8gXapgU
 
 ## Paso 4. Evaluación 
 
-Proceso detallado [aquí](
-
 ![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
 **DIU1.CEREZA**		:octocat: https://github.com/DavidGmezHdez/DIU20
 
-Este grupo ha planteado la idea de diseño de una aplicación basada en la experiencia de compartir viaje.
+Este grupo ha planteado la idea de diseño de una aplicación basada en la experiencia de hacer viajes, hasta a personas con menos recursos.
 
-*Puntuación /100*
+*Puntuación 85/100*
 
 **DIU2.EscuadrónMapache**	:octocat: https://github.com/Galactic-O/DIU20
 
-Este equipo a planteado la idea de diseño de una aplicación basada en la experiencia de compartir alojamiento.
+Este equipo a planteado la idea de diseño de una aplicación basada en la experiencia de alquiler de viviendas, podiendo también mantener contacto con las personas que van a vivir.
 
 *Puntuacion /100*
 
@@ -161,9 +159,9 @@ Este equipo a planteado la idea de diseño de una aplicación basada en la exper
 
 ![Método UX](img/Survey.png). 4.c Ranking 
 
-**1- DIU1.CEREZA    /100**
+**1- DIU1.CEREZA    85/100**
 
-**2- DIU2.EscuadrónMapache   /100**
+**2- DIU2.EscuadrónMapache   84/100**
 
 **3- DIU3.AMRM	  /100**
 
