@@ -64,22 +64,20 @@ https://github.com/antoniohenriques/DIU20/blob/master/Captura%20de%20ecra%CC%83%
 >>> Identificar términos para diálogo con usuario  
 
 Término | Significado     
-| ------------- | -------
-| acceder a plataforma
 
 Prices                 | Donde se ve las diferentes opciones para hacer coworking
   
 Room renting           | El sítio para hacer presentaciones o reuniones.
   
-  Coworkers              | Presentación de los coworkers que hacer coworking.
+Coworkers              | Presentación de los coworkers que hacer coworking.
   
-  Rent a room in Granada | Ayuda para quien necesita una habitación en Granada.
+Rent a room in Granada | Ayuda para quien necesita una habitación en Granada.
   
-  About us               | Pequeña presentación sobre quien son erranT y que oferecen.
+About us               | Pequeña presentación sobre quien son erranT y que oferecen.
   
-  Contact us             | entrar en contacto con erranT.
+Contact us             | entrar en contacto con erranT.
   
-  Visit our social media | Se puede acceder a las diferentes redes sociales de erranT
+Visit our social media | Se puede acceder a las diferentes redes sociales de erranT
   
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
