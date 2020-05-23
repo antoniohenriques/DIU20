@@ -1,13 +1,11 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1.AH Curso: 2019/20 
+Grupo: - Curso: 2019/20 
 
-Proyecto: Couchsurfing
+Proyecto: erranT
 
-Descripción: 
-
-Logotipo:  <script src="https://kit.fontawesome.com/5fdcf003fa.js" crossorigin="anonymous"></script>
+Descripción: erranT es una compañía que hace coworking, un concepto que és más o menos reciente, en que una o más personas que tienen una empresa van a trabajar en un sítio que también tengan otras empresas. Sobretodo es un lugar más económico que tener su própio espacio, pero también donde se conocen nuevas personas y empresas, donde también pueden hacer negócio entre ellas.
 
 
 Miembros:
@@ -23,7 +21,16 @@ António Francisco Oliveira Henriques, 14705014
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
  
-He eligido a couchsurfing porque creo ser una aplicación muy interesante para quien quiere viajar de una forma economica, y además tener la posibilidad de conocer otras realidades y culturas.
+-TOPyCo CoWorking Granada
+-Coworking Granada | Anda CoWork
+-Gran Vía Coworking Granada
+-Coforum Coworking
+-AFS Coworking Granada
+-La Variable
+-Workingranada - Espacio coworking en Granada
+Son todas empresas de coworking en Granada y que también están en el centro de la ciudad, por eso erranT está en un mercado muy competitivo, donde hacer la diferencia es esencial para ser el mejor del mercado.
+Aun tienen más, pero estás son las principales.
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
@@ -31,36 +38,18 @@ He eligido a couchsurfing porque creo ser una aplicación muy interesante para q
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 He escogido hablar de Anthoine y de Monica pues suelen ser personas con personalidades y objetivos para la aplicación distintos, pero ambas muy interesantes.
 
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-Creo que la opción de Monica es un poco mas normal que la de Anthoine, pues Anthoine ha despedido de su empleo, pero sin ser eso, tiene una opción normal para los usuarios del aplicativo. 
+Anthoine y Monica procuran los dos por un lugar para hacer coworking. Encuentran erranT. Anthoine no esta seguro si puede quedar en 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad:
->>>> SE deben incluir claramente los siguientes elementos: https://github.com/antoniohenriques/DIU20/blob/master/P1/Usability-review-template.xls 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:
+>>>> SE deben incluir claramente los siguientes elementos: https://github.com/antoniohenriques/DIU20/blob/master/UX-DIU-Toolkit-master.zip
 
 
 ## Paso 2. UX Design  
-
-
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
-----
-
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-  
-  
-Yo creo que la aplicación de couchsurfing está muy bien echa, pero creo que le falta tener la posibilidad de que, una persona que va a mirar por un host, que tenga la posibilidad de poder mirar donde la persona vive en el mapa, con un radio de mas o menos 1km, tambien para no estar mostrando donde queda la ubicación exacta de la persona, por razones de seguridad.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
