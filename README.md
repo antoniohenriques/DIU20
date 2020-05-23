@@ -66,6 +66,7 @@ https://github.com/antoniohenriques/DIU20/blob/master/Captura%20de%20ecra%CC%83%
 Término | Significado     
 | ------------- | -------
 | acceder a plataforma
+
   Prices                 | Donde se ve las diferentes opciones para hacer coworking
   
   Room renting           | El sítio para hacer presentaciones o reuniones.
