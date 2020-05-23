@@ -58,30 +58,23 @@ Anthoine y Monica procuran los dos por un lugar para hacer coworking. Encuentran
 
 ## Paso 2. UX Design  
 
-![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
------
+![Método UX] 2.Sitemap & Labelling
 
->>> Definir "User Map" y "Task Flow" ... 
-
-
-![Método UX](img/labelling.png) 2.c Labelling 
-----
+https://github.com/antoniohenriques/DIU20/blob/master/Captura%20de%20ecra%CC%83%202020-05-23%2C%20a%CC%80s%2022.08.28.png
 
 
 >>> Identificar términos para diálogo con usuario  
 
 Término | Significado     
 | ------------- | -------
-  Login    | acceder a plataforma
-  Sign Up  | registrarse a la plataforma
-  Search   | procurar un host en la plataforma
-  verify   | verificar que su perfil es real
-  dashboard| opciones de destinos donde tienen host
-  groups   | entrar en un grupo con otros couchsurfers
-  events   | eventos entre couchsurfers y hosts en una ciudad
-  inbox    | donde están las mensajes
-  profile  | donde puedes mirar tu perfil
-  settings | puedes salir de tu cuenta o ir a las definiciones
+     | acceder a plataforma
+  Prices                 | Donde se ve las diferentes opciones para hacer coworking
+  Room renting           | El sítio para hacer presentaciones o reuniones.
+  Coworkers              | Presentación de los coworkers que hacer coworking.
+  Rent a room in Granada | Ayuda para quien necesita una habitación en Granada.
+  About us               | Pequeña presentación sobre quien son erranT y que oferecen.
+  Contact us             | entrar en contacto con erranT.
+  Visit our social media | Se puede acceder a las diferentes redes sociales de erranT
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
