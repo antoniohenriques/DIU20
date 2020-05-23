@@ -67,9 +67,9 @@ Término | Significado
 | ------------- | -------
 | acceder a plataforma
 
-  Prices                 | Donde se ve las diferentes opciones para hacer coworking
+Prices                 | Donde se ve las diferentes opciones para hacer coworking
   
-  Room renting           | El sítio para hacer presentaciones o reuniones.
+Room renting           | El sítio para hacer presentaciones o reuniones.
   
   Coworkers              | Presentación de los coworkers que hacer coworking.
   
