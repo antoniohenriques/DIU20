@@ -69,17 +69,33 @@ Término | Significado
 | ------------- | -------
      | acceder a plataforma
   Prices                 | Donde se ve las diferentes opciones para hacer coworking
+  
   Room renting           | El sítio para hacer presentaciones o reuniones.
+  
   Coworkers              | Presentación de los coworkers que hacer coworking.
+  
   Rent a room in Granada | Ayuda para quien necesita una habitación en Granada.
+  
   About us               | Pequeña presentación sobre quien son erranT y que oferecen.
+  
   Contact us             | entrar en contacto con erranT.
+  
   Visit our social media | Se puede acceder a las diferentes redes sociales de erranT
+  
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+About us:https://github.com/antoniohenriques/DIU20/blob/master/Captura%20de%20ecra%CC%83%202020-05-23%2C%20a%CC%80s%2021.49.49.png
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Contact us:https://github.com/antoniohenriques/DIU20/blob/master/Captura%20de%20ecra%CC%83%202020-05-23%2C%20a%CC%80s%2021.50.10.png
+
+Coworkers:https://github.com/antoniohenriques/DIU20/blob/master/Captura%20de%20ecra%CC%83%202020-05-23%2C%20a%CC%80s%2021.50.30.png
+
+Rent a room in Granada:https://github.com/antoniohenriques/DIU20/blob/master/Captura%20de%20ecra%CC%83%202020-05-23%2C%20a%CC%80s%2021.50.41.png
+
+Prices:https://github.com/antoniohenriques/DIU20/blob/master/Captura%20de%20ecra%CC%83%202020-05-23%2C%20a%CC%80s%2021.51.23.png
+
+Pagina principal:https://github.com/antoniohenriques/DIU20/blob/master/Captura%20de%20ecra%CC%83%202020-05-23%2C%20a%CC%80s%2021.51.33.png
 
 
 ## Paso 3. Mi equipo UX-Case Study
