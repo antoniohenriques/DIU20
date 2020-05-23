@@ -41,8 +41,6 @@ Aun tienen más, pero estás son las principales.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 He escogido hablar de Anthoine y de Monica pues suelen ser personas con personalidades y objetivos para la aplicación distintos, pero ambas muy interesantes. Anthoine empeza su sueño de tener una start-up de webdesign, y Monica quiere un sítio fijo para poder trabajar con su amiga en su compañía de publicidad.
 
 
@@ -53,7 +51,7 @@ Anthoine y Monica procuran los dos por un lugar para hacer coworking. Encuentran
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>> SE deben incluir claramente los siguientes elementos: https://github.com/antoniohenriques/DIU20/blob/master/UX-DIU-Toolkit-master.zip
+SE deben incluir claramente los siguientes elementos: https://github.com/antoniohenriques/DIU20/blob/master/UX-DIU-Toolkit-master.zip
 
 
 ## Paso 2. UX Design  
@@ -103,8 +101,7 @@ Pagina principal:https://github.com/antoniohenriques/DIU20/blob/master/Captura%2
 
 ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
 ----
-
->>>La letra escogida ha sido Helvetica, que es un tipo de letra guapo, y he usado BOLD para que sea más sencillo para personas con poca visibilidad para leer la web.
+La letra escogida ha sido Helvetica, que es un tipo de letra guapo, y he usado BOLD para que sea más sencillo para personas con poca visibilidad para leer la web.
 
 
 
