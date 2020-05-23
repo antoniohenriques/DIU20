@@ -61,7 +61,7 @@ SE deben incluir claramente los siguientes elementos: https://github.com/antonio
 https://github.com/antoniohenriques/DIU20/blob/master/Captura%20de%20ecra%CC%83%202020-05-23%2C%20a%CC%80s%2022.08.28.png
 
 
->>> Identificar términos para diálogo con usuario  
+Identificar términos para diálogo con usuario  
 
      Término | Significado     
 
@@ -101,7 +101,6 @@ Pagina principal:https://github.com/antoniohenriques/DIU20/blob/master/Captura%2
 ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
 ----
 La letra escogida ha sido Helvetica, que es un tipo de letra guapo, y he usado BOLD para que sea más sencillo para personas con poca visibilidad para leer la web.
-
 
 
 
